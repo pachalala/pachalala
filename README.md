@@ -1,4 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Alvaro <br/><a href="https://github.com/pachalala">Software Ingeneer & Developer</a></h1>
+
+<p>This github i use it por sandbox, but I want to share these links to some simple, fun and entertaining side code projects.</p>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Sound Fonts, Javascrip Vainilla, Classes, Objects, Canvas</b>
+  - [Simon Play](https://github.com/)
+
+ 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Alvaro Yanes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Alvaro Yanes | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+ 
+[linkedin]: https://www.linkedin.com/in/alvaro-yanes-57567315/
+[Facebook]: https://www.facebook.com/pachalala/
+
 
 <!--
 **pachalala/pachalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
