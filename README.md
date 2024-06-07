@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Sound Fonts, Javascrip Vainilla, Classes, Objects, Canvas</b>
-  - [Simon Play](https://github.com/pachalala/SimonPlay)
+  - [Simon Play]( https://pachalala.github.io/SimonPlay/)
 
  
 
