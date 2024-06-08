@@ -2,7 +2,7 @@
 
 <p>This github i use it por sandbox, but I want to share these links to some simple, fun and entertaining side code projects.</p>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Side coding Projects:</h2>
 
 - <b>Simon Play. An musical educational game (based in Simon Says)</b>
   - [Simon Play]( https://pachalala.github.io/SimonPlay/)  (Sound Fonts, Javascrip Vainilla, Classes, Objects, Canvas)
