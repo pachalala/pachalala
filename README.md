@@ -4,8 +4,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Sound Fonts, Javascrip Vainilla, Classes, Objects, Canvas</b>
-  - [Simon Play]( https://pachalala.github.io/SimonPlay/)
+- <b>Simon Play. An musical educational game (based in Simon Says)</b>
+  - [Simon Play]( https://pachalala.github.io/SimonPlay/)  (Sound Fonts, Javascrip Vainilla, Classes, Objects, Canvas)
 
  
 
